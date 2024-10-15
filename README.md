@@ -1,6 +1,6 @@
-# TinyTinkerLab
+# ToyBoxProject
 
-Welcome to **TinyTinkerLab**, a personal sandbox for small projects, experiments, and code snippets. This repository serves as a playground for trying out ideas that are too small for individual repositories.
+Welcome to **ToyBoxProject**, a personal sandbox for small projects, experiments, and code snippets. This repository serves as a playground for trying out ideas that are too small for individual repositories.
 
 ## Projects
 
