@@ -4,7 +4,7 @@ Welcome to **ToyBoxProject**, a personal sandbox for small projects, experiments
 
 ## Projects
 
-Each folder in this repository contains a tiny project or experiment, along with any relevant documentation. Feel free to explore and tinker around!
+Each folder in this repository contains a tiny project or experiment, along with any relevant documentation. Feel free to explore !
 
 1. **[Patched Maze Generator](PatchedMazeGenerator/README.md)**
 2. **[RNN Sinusoidal](RNNSinusoidal/README.md)**
